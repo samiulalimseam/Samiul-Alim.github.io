@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 50px;
+    font-style: normal;
+    
+}
+.headerSpan{
+    color: orange;
+}
+.firstHalf {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    background-image: url("./images/header-bg.png");
+    
+}
+.firstHalf img{
+    width: 100%;
+}
