@@ -25,6 +25,7 @@ h1 {
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .link-button{
     text-decoration: none;
@@ -33,4 +34,7 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: bold;
+}
+h2{
+    font-size: xx-large;
 }
